@@ -1,0 +1,1 @@
+This is the readme for this project, it is a base of script that i found browsing threw bitbucket. I take no credit for the script before us
